@@ -16,6 +16,8 @@ bazel-testlogs
 *.sdf
 *.opensdf
 *.VC.opendb
+**.vcxproj
+**.vcxproj.filters
 *.suo
 *.user
 _ReSharper.Caches/
